@@ -28,6 +28,7 @@ And y for reboot.
 ## Usage
 
 After second reboot, you can login with user: admin/ pw: 123 in 127.0.0.1
+
 And login mysql with user: root/ pw: 123 in 127.0.0.1:1234
 
 ## Contributing
@@ -35,5 +36,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
